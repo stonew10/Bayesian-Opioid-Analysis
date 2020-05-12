@@ -8,4 +8,4 @@ emergency for the US Opioid Epidemic.
 
 In this analysis, data from CDC's Wonder tool is explored to see which demographics have been impacted the most by the 
 opioid epidemic. We also propose the overall crude rate (mortality rate) can be modeled using a Bayesian multiple linear 
-regression, while comparing its predictive qualities to a regular frequentist multiple linear regression. 
+regression along with Bayesian model averaging, while comparing its predictive qualities to a regular frequentist multiple linear regression. 
